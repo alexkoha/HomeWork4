@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\bin\Debug\XLinq.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\bin\Debug\XLinq.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\bin\Debug\XLinq.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.pdb
