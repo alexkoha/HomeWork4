@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\bin\Debug\BackgroundPrimeCalc.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\bin\Debug\BackgroundPrimeCalc.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\bin\Debug\BackgroundPrimeCalc.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.Form1.resources
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.Properties.Resources.resources
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.5\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.pdb

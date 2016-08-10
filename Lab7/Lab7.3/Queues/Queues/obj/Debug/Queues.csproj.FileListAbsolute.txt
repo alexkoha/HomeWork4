@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.3\Queues\Queues\bin\Debug\Queues.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.3\Queues\Queues\bin\Debug\Queues.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.3\Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.3\Queues\Queues\obj\Debug\Queues.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.3\Queues\Queues\obj\Debug\Queues.pdb

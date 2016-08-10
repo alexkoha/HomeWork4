@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\bin\Debug\PrimesCalculator.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\bin\Debug\PrimesCalculator.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\bin\Debug\PrimesCalculator.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.Form1.resources
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.Properties.Resources.resources
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.1\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.pdb

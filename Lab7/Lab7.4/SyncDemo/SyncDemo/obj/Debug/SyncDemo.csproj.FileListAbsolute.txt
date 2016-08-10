@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.4\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.4\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.4\SyncDemo\SyncDemo\bin\Debug\SyncDemo.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.4\SyncDemo\SyncDemo\obj\Debug\SyncDemo.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab7\Lab7.4\SyncDemo\SyncDemo\obj\Debug\SyncDemo.pdb
