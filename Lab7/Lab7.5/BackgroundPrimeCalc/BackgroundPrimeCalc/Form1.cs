@@ -62,8 +62,7 @@ namespace BackgroundPrimeCalc
                 if (IsPrime(number))
                     _listOfNumbers.Add(number);
 
-                backgroundWorker1.ReportProgress(
-                    (int)(100L * (number - _first + 1) / (_last - _first + 1)));
+                backgroundWorker1.ReportProgress((int)(100L * (number - _first + 1) / (_last - _first + 1)));
             }
         }
 
@@ -79,9 +78,9 @@ namespace BackgroundPrimeCalc
                 return;
             }
 
-            backgroundWorker1.RunWorkerAsync();
             listBox1.Items.Clear();
             listBox1.Items.Add("Calculating...");
+            backgroundWorker1.RunWorkerAsync();
 
         }
 
