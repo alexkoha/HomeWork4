@@ -14,6 +14,7 @@ namespace AsyncDemo
 {
     public partial class Form1 : Form
     {
+        //bad name
         private delegate IEnumerable<int> ListOfPrimes(int one, int two);
 
         private IEnumerable<int> CalcPrimes(int first, int last)
@@ -57,22 +58,22 @@ namespace AsyncDemo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            // ????
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            // ????
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            // ????
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            // ????
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -80,7 +81,7 @@ namespace AsyncDemo
             ListOfPrimes hendler = CalcPrimes;
             var first = 0;
             var last = 0;
-
+            //Extract to new method
             if (first > last || first < 0 || last < 0 || !int.TryParse(textBox1.Text, out first) || !int.TryParse(textBox2.Text, out last))
             {
                 listBox1.Items.Clear();
@@ -95,9 +96,14 @@ namespace AsyncDemo
 
                 IAsyncResult asyncResult = hendler.BeginInvoke(first, last, (isync) =>
                 {
+
+                    // Invoke - synchronic , BeginInvoke - Asynchronic
+                    // Your UI is blocked, you should use BeginInvoke
+                    
                     this.Invoke(new Action(() =>
                     {
                         listBox1.Items.Clear();
+                        // end.invoke should be at 102 line, pass the result to new BeginInvoke (line 103) 
                         IEnumerable<int> list = hendler.EndInvoke(isync);
                         foreach (var item in list)
                         {

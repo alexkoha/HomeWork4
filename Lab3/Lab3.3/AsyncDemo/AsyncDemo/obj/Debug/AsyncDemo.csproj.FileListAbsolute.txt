@@ -7,3 +7,12 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab3\Lab3.3\AsyncDemo\AsyncDemo\o
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.GenerateResource.Cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe.config
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.pdb
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csprojResolveAssemblyReference.cache
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.Form1.resources
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.Properties.Resources.resources
+C:\Users\CodeValue\Source\Repos\HomeWork4\Lab3\Lab3.3\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.GenerateResource.Cache
