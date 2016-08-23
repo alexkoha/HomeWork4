@@ -4,3 +4,9 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.1\LINQ\LINQ\bin\Debug\L
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.1\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.1\LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.1\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.1\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.1\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.1\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.1\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.1\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.1\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache

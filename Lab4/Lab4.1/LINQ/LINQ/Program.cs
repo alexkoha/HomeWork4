@@ -15,7 +15,10 @@ namespace LINQ
         static void Main(string[] args)
         {
             var display =
-                typeof(Assembly).Assembly.GetExportedTypes().Where(x=>x.IsInterface)
+                    // should be:
+                    // From interfacesVariable in Assembly.Load("mscorlib").GetType().Where(x=>x.IsInterface)
+                    // Why did't you use: From .... in ...... syntex ???
+                    typeof(Assembly).Assembly.GetExportedTypes().Where(x=>x.IsInterface)
                     .Where((x) => x.IsPublic)
                     .Select(x => new {x.Name, x.GetMethods().Length});//x + " " + x.GetMethods().Length.ToString());
             Console.WriteLine("Interfaces & Number Of Methodes in Assembly :");
@@ -24,8 +27,9 @@ namespace LINQ
                 Console.WriteLine(item);
             }
 
-
+            
             var processes = Process.GetProcesses();
+            // Why did't you use: From .... in ...... syntex ???
             var displayProcess = processes.Where((x) => x.Threads.Count < 5 && x.AccessProccess())
                 .Select((x) => new {  x.ProcessName, x.Id,  x.StartTime })
                 .OrderBy((x) => x.Id)
@@ -36,6 +40,7 @@ namespace LINQ
                 Console.WriteLine(item);
             }
 
+            // Why did't you use: From .... in ...... syntex ???
             var grouptProcesses = processes.Where((x) => x.Threads.Count < 5 && x.AccessProccess() )
                 .GroupBy(x => x.BasePriority , x=>new { x.ProcessName, x.Id , x.StartTime});
                 
@@ -50,7 +55,7 @@ namespace LINQ
                 }
             }
 
-
+            // Forget check for Access Proccess
             var totalThreads = Process.GetProcesses().Sum((procces) => procces.Threads.Count);
             Console.WriteLine($"\nTotal Threads : {totalThreads}");
 
@@ -87,6 +92,7 @@ namespace LINQ
         {
             try
             {
+                //if process has proceess.StartTime() it exist,otherwise exception 
                 return process != null && process.Handle != IntPtr.Zero;
             }
             catch (Exception exn)
