@@ -15,8 +15,6 @@ namespace LINQ
         static void Main(string[] args)
         {
             var display =
-                    // should be:
-                    // From interfacesVariable in Assembly.Load("mscorlib").GetType().Where(x=>x.IsInterface)
                     // Why did't you use: From .... in ...... syntex ???
                     typeof(Assembly).Assembly.GetExportedTypes().Where(x=>x.IsInterface)
                     .Where((x) => x.IsPublic)
