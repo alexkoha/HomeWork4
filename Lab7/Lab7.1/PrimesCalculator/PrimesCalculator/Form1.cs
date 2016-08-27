@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace PrimesCalculator
 {
+    //Not working...
     public partial class Form1 : Form
     {
         private void CalcPrimes()
@@ -34,11 +35,13 @@ namespace PrimesCalculator
         private int Last { get; set; }
         private int First { get; set; }
 
+        //It isn't good to share state between threads. You could have sent this object to UpDdatePrimeList, while CalcPrimes returned it
         private List<int> _listOfNumbers;
         private bool IsPrime(int num)
         {
             if ((num & 1) == 0)
             {
+                //return 2 == num;
                 if (num == 2)
                 {
                     return true;
@@ -86,6 +89,8 @@ namespace PrimesCalculator
             Thread worker = new Thread(() =>
             {
                 CalcPrimes();
+
+                //Enough: Invoke(UpDdatePrimeList);
                 Invoke(new Action(() =>
                 {
                     UpDdatePrimeList();
