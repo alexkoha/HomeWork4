@@ -15,22 +15,23 @@ namespace XLinq
         {
             // 2
             var listOfClasses = typeof(Assembly).Assembly.GetExportedTypes()
-                .Where(x => x.IsClass)
+                .Where(x => x.IsClass) // & x.IsClass
                 .Select((clas) => 
                 new XElement("Type", 
                 new XAttribute("FullName", clas.FullName),
                     new XElement("Propirties",
+                        //should be clas.GetProperties(BindingFlags.Public | BindingFlags.Instance)
                         clas.GetProperties().Select(p =>
                     new XElement("Property", 
                     new XAttribute("Name", p.Name),
                     new XAttribute("Type", p.PropertyType.FullName ?? "T")))),
                     new XElement("Methodes" , 
                         clas.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly)
-                        .Where(method=> !method.IsSpecialName)
+                        .Where(method=> !method.IsSpecialName) // ???
                         .Select(method=>
                     new XElement("Method" , 
                     new XAttribute("Name" , method.Name),
-                    new XAttribute("ReturnType" , method.ReturnType.FullName ?? "T") ,
+                    new XAttribute("ReturnType" , method.ReturnType.FullName ?? "T"), // why not just method.ReturnType ??
                         new XElement("Parameter" ,
                             method.GetParameters().Select(parameter=>
                         new XElement("Parameter",

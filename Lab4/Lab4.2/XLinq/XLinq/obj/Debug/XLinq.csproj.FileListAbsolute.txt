@@ -4,3 +4,6 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\bin\Debug
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.pdb
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.2\XLinq\XLinq\bin\Debug\XLinq.exe.config
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.exe
+C:\Users\CodeValue\Source\Repos\AlexKoha\HomeWork4\Lab4\Lab4.2\XLinq\XLinq\obj\Debug\XLinq.pdb
