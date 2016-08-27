@@ -78,7 +78,7 @@ namespace XLinq
                     Methods = methods,
                     Properties = type.Descendants("Property").Count()
                 };
-
+            // where is your new xml as asked at the exercise?
             Console.WriteLine("\nProperties And Methods :");
             foreach (var method in orderdByMethods)
             {
