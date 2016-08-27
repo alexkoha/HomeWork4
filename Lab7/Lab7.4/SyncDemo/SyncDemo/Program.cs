@@ -13,7 +13,9 @@ namespace SyncDemo
     {
         static void Main(string[] args)
         {
-            // Create a new Mutex.
+            // This isn't good. Your mutex is unnamed and thus you'll have a diffferent mutex for each process.
+            //Other processes will crash while trying to access the file simultaneously
+            //To fix it: using (Mutex MutexSyncFileMutex = new Mutex(false, "AlexKohatzki"))
             using (Mutex MutexSyncFileMutex = new Mutex())
             {
                 Console.WriteLine("Lets start reccord.\nPress Enter To start...");
