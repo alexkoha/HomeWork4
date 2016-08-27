@@ -20,7 +20,7 @@ namespace XLinq
                 new XElement("Type", 
                 new XAttribute("FullName", clas.FullName),
                     new XElement("Propirties",
-                        //should be clas.GetProperties(BindingFlags.Public | BindingFlags.Instance)
+                        //should be clas.GetProperties(BindingFlags.Public | BindingFlags.Instance) 
                         clas.GetProperties().Select(p =>
                     new XElement("Property", 
                     new XAttribute("Name", p.Name),
